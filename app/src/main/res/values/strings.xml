@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ImageSlice</string>
+    <string name="app_subtitle">Image Grid &amp; Cropping</string>
+    <string name="choose_image">Select Image</string>
+    <string name="load_sample">Sample Image</string>
+    <string name="grid_settings">Grid Dimensions</string>
+    <string name="rows_label">Horizontal Divisions (Rows): %1$d</string>
+    <string name="cols_label">Vertical Divisions (Columns): %1$d</string>
+    <string name="selection_hint">Tap on any grid section above to select a box</string>
+    <string name="selected_box_info">Selected: Row %1$d, Column %2$d (Section %3$d of %4$d)</string>
+    <string name="view_slice">View Selected Slice</string>
+    <string name="view_grid">Explore All Slices (GridView)</string>
+    <string name="slice_detail_title">Selected Slice</string>
+    <string name="slice_grid_title">All Grid Slices</string>
+    <string name="share_slice">Share Slice</string>
+    <string name="save_slice">Save Slice</string>
+    <string name="dimensions_info">Resolution: %1$d × %2$d px</string>
+    <string name="position_info">Grid Position: Row %1$d of %2$d, Column %3$d of %4$d</string>
+    <string name="section_number">Section %1$d of %2$d</string>
+    <string name="slice_info_title">Slice Information</string>
+    <string name="bitmap_unavailable">Bitmap unavailable</string>
+    <string name="slice_thumbnail_desc">Slice Thumbnail</string>
+    <string name="grid_image_desc">Source image with grid overlay</string>
+    <string name="grid_summary_format">Grid: %1$d × %2$d (%1$d rows, %2$d columns)\nTotal Slices: %3$d\nTap any slice to inspect in full detail.</string>
+    <string name="sample_loaded">Sample image loaded</string>
+    <string name="image_loaded">Image loaded successfully</string>
+    <string name="image_load_failed">Failed to load image from gallery</string>
+    <string name="share_error">Unable to share image: %1$s</string>
+    <string name="share_prepare_failed">Failed to prepare slice for sharing</string>
+    <string name="saved_successfully">Slice saved to Pictures/ImageSlice</string>
+    <string name="save_failed">Failed to save slice</string>
+</resources>
